@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">p5eijd</string>
+    <string name="descripcion">Biohazard</string>
+    <string name="pantallatableta">Estamos en una Tableta</string>
+    <string name="bpresiona">Pulsa aqui!!</string>
+    <string name="pantallacell">Estamos en un Celular</string>
+</resources>
